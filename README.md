@@ -11,11 +11,15 @@ Acesse o notebook de onde você estiver! Clique na insígnia do Binder abaixo!
 
 ### Instalação do Jupyter Notebook e pré-requisitos:
  
-> pip install --upgrade pip
-> pip install numpy scipy matplotlib scikit-learn jupyter
+```
+$ pip install --upgrade pip
+$ pip install numpy scipy matplotlib scikit-learn jupyter
+```
 
 ### Execução do Jupyter Notebook:
 
-> git clone https://github.com/rodrigohubner/RP36O
-> cd RP36O
-> jupyter notebook
+```
+$ git clone https://github.com/rodrigohubner/BCC35G
+$ cd BCC35G
+$ jupyter notebook
+```
