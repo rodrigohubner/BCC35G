@@ -4,13 +4,18 @@ Este é um caderno interativo que serve para ilustrar exemplos de algoritmos apr
 
 Acesse o notebook de onde você estiver! Clique na insígnia do Binder abaixo!
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/julianofoleiss/BCC35G.git/master)
-
-## Usando Localmente
-
-* Instale o [Jupyter Notebook](http://jupyter.readthedocs.org/en/latest/install.html)
-* > git clone https://github.com/julianofoleiss/BCC35G.git
-* > cd BCC35G
-* > jupyter notebook
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/rodrigohubner/BCC35G/master)
 
 
+## Usando o Jupyter Notebook localmente
+
+### Instalação do Jupyter Notebook e pré-requisitos:
+ 
+> pip install --upgrade pip
+> pip install numpy scipy matplotlib scikit-learn jupyter
+
+### Execução do Jupyter Notebook:
+
+> git clone https://github.com/rodrigohubner/RP36O
+> cd RP36O
+> jupyter notebook
