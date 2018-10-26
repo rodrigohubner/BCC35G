@@ -23,3 +23,12 @@ $ git clone https://github.com/rodrigohubner/BCC35G
 $ cd BCC35G
 $ jupyter notebook
 ```
+
+## Sequência das aulas:
+
+1. BuscaCega.ipynb (exemplo prático de busca cega/desinformada)
+2. BuscaLocal.ipynb (exemplo prático de busca local)
+3. AlgGenetico_fx.ipynb (exemplo prático de algoritmos genéticos)
+4. NCharacter_Classification.ipynb (exemplos realizados para a extração de características)
+5. KNN.ipynb (exemplo prático do algoritmo de classificação KNN)
+6. (**EM BREVE**) Clustering.ipynb (exemplo prático do algoritmo de aprendizagem não-supervisionada)
